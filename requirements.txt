@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+Pillow==9.4.0
+numpy
+python-multipart
